@@ -1,4 +1,5 @@
-# Códigos Únicos Territoriales, vigentes a partir del 6 de septiembre de 2018
+# Códigos Únicos Territoriales
+## vigentes a partir del 6 de septiembre de 2018
 
 Fuente: Ministerio del Interior, Subsecretaría de Desarrollo Regional y Administrativo. /n
 Notas:
